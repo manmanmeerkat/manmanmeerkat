@@ -16,8 +16,7 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 
 
