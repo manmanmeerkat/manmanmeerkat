@@ -1,8 +1,8 @@
 # Hello, I'm Manmanmeerkat 👋
 
-I'm a software developer with a passion for creating web applications.
 
-## 🚀 Skills　and  📚 Currently Learning
+
+##  📚 Skills　and  Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
