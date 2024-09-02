@@ -18,6 +18,7 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
+製造業で働いています。
 
 
 
