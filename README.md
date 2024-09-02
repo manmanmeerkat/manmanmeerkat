@@ -25,7 +25,7 @@
 
 一番時間をかけて学んでいるのはReact、Laravel、最近よく触っているのはTypescript、Java（Spring Boot）、その他多少なりとも触れたことのある言語やフレームワーク、技術としてはPython（Djando、Flask、FastAPI）、Ruby on Rails、Vue.js、Next.js、Astro、TailwindCss、Firebase、Supabase、AWS、Docker、GitHub Actionsなどです。
 
-
+よろしくお願いいたします。
 
 
 
