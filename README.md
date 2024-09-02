@@ -18,7 +18,7 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-製造業で働いています。
+現在まで９年ほど中小規模の製造業の会社に勤務していますが、製造工程の不良率の低減に取り組む中、Pythonでのデータ分析に出会ったのをきっかけにプログラミングに出会いました。
 
 
 
