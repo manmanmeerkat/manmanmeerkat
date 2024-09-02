@@ -20,7 +20,9 @@
 
 現在まで９年ほど中小規模の製造業の会社に勤務していますが、製造工程の不良率の低減に取り組む中、Pythonでのデータ分析に興味を持ったのをきっかけにプログラミングに出会いました。
 
-一番時間をかけて学んでいるのはReact、Laravel、最近よく触っているのはTypescript、Java（Spring Boot）、その他多少なりとも触れたことのある言語やフレームワークや技術としてはPython（Djando、Flask、FastAPI）、Ruby on Rails、Vue.js、Next.js、Astro、TailwindCss、Firebase、Supabase、AWS、Docker、GitHub Actionsなどです。
+仕事での改善活動に活かせないかと独学でアプリやプログラム作成を始め、2024年4～8月の間でAWS SAA、基本情報技術者試験、Java Shilver SE11の資格も取得しました。
+
+一番時間をかけて学んでいるのはReact、Laravel、最近よく触っているのはTypescript、Java（Spring Boot）、その他多少なりとも触れたことのある言語やフレームワーク、技術としてはPython（Djando、Flask、FastAPI）、Ruby on Rails、Vue.js、Next.js、Astro、TailwindCss、Firebase、Supabase、AWS、Docker、GitHub Actionsなどです。
 
 
 
