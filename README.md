@@ -15,7 +15,7 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
-![Node.js](https://skillicons.dev/icons?i=node.js)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
